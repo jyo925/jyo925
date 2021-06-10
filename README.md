@@ -1,4 +1,4 @@
-👋 Hi My name is Jiyoon. 
+👋 Hi My name is iyoon. 
 
 📚 I'm studying web development. I want to be a backend developer.
 
